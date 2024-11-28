@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "search"
-version = "1.0.0"
+version = "1.0.1"
 description = "Search Service"
 authors = ["Gemini Team <info@gemini-commerce.com>"]
 license = "Gemini fair use license"
